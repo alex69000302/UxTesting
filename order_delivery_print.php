@@ -302,6 +302,7 @@ case $rs[6] == '917': $time = "(17 時-20時) "; break;
     <td class="tg-baqh">貨號</td>
     <td class="tg-baqh">品名</td>
 	<td class="tg-baqh">EAN</td>
+	<td class="tg-baqh">Fuck</td>
     <td class="tg-baqh">單位</td>
     <td class="tg-baqh">庫存</td>
     <td class="tg-baqh">單價</td>
