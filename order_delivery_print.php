@@ -220,6 +220,7 @@ case $rs[6] == '817': $time = "(17 時-20時) "; break;
 case $rs[6] == '909': $time = "(9 時-12時) "; break;
 case $rs[6] == '912': $time = "(12 時-17時) "; break;
 case $rs[6] == '917': $time = "(17 時-20時) "; break;
+case $rs[6] == '917': $time = "你娘大嬸婆臭機掰勒~"; break;
 	}
 	echo $time;
 }
